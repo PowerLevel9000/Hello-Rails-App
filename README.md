@@ -27,6 +27,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
+#  App mock
+
+  <img src="./personal-branding/app.png" alt="logo" width="100%"  height="auto" />
+
+
 # 📖 Hello-Rails-App <a name="about-project"></a>
 
 Hello-Rails-App is `Ruby on Rails` base project it is just the begging of enthusiastic world of ROR
